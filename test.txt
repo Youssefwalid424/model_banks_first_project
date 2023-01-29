@@ -1,0 +1,42 @@
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = D =30.0EGP
+your balance =5030.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = D =40.0EGP
+your balance =5070.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = D =50.0EGP
+your balance =5120.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = W =5.0EGP
+your balance =5115.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = W =4.0EGP
+your balance =5111.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
+hello :joo
+your id  =1122
+your annual interest rate =1.5%
+the type of transactions = W =2.0EGP
+your balance =5109.0EGP
+last transaction at :Sun Jan 29 17:13:11 EET 2023			
+_____________________________________________
